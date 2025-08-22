@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("Probando power",power(2,2))
+    print("Probando division entre 0",divide(2,0))
 
     print("end test")
 

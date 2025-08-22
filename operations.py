@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("Probando division entre 0",divide(2,0))
+    print("Probando maximum",maximum([1,2,3]))
 
     print("end test")
 
